@@ -1,0 +1,6 @@
+.frame{
+    width: 800px;
+    height: 600px;
+    background: #ccc;
+    border: 10px solid #ddd;
+}
